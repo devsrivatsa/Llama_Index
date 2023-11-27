@@ -1,0 +1,7 @@
+./llamaindex/.env
+.venv
+./llamaindex/src_docs
+./llamaindex/research_paper_index
+./llamaindex/b.py
+tests
+poetry.lock
